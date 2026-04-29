@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ahmed — an undergraduate with a strong interest in programming and problem solving.<br>I enjoy working with Python, C and Java and exploring core concepts of Object-Oriented Programming, data structures, and algorithms.<br><br>I use GitHub to document my learning journey, share projects, and improve my coding skills through consistent practice.<br>Currently focused on strengthening fundamentals and building a solid technical foundation.<br><br>Open to learning, collaboration, and new challenges.
+Hi, I’m Ahmed — an undergraduate with a strong interest in programming and problem solving.<br>I enjoy working with Python, C and Java and exploring core concepts of Object-Oriented Programming, data structures, and algorithms.
 
 
 # 💻 Tech Stack:
