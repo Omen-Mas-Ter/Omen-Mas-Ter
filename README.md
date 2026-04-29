@@ -10,7 +10,6 @@ Hi, I’m Ahmed — an undergraduate with a strong interest in programming and p
 <br/>
 ![](https://streak-stats.demolab.com/?user=Omen-Mas-Ter&theme=dracula&hide_border=false)
 <br/><br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Omen-Mas-Ter&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
