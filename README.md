@@ -13,6 +13,4 @@ Hi, I’m Ahmed — an undergraduate with a strong interest in programming and p
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Omen-Mas-Ter&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
