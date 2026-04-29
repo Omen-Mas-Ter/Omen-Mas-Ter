@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ahmed — an undergraduate with a strong interest in programming and problem solving.<br>I enjoy working with Python, C and Java and exploring core concepts of Object-Oriented Programming, data structures, and algorithms.
+Hi, I’m Ahmedullah Inam — an undergraduate with a strong interest in programming and problem solving.<br>I enjoy working with Python, C and Java and exploring core concepts of Object-Oriented Programming, data structures, and algorithms.
 
 
 # 💻 Tech Stack:
